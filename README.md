@@ -1,2 +1,3 @@
 # scrapy-project-checkatrade
-An interesting free lance project which uses a spider to crawl through websites and pull data
+Python spider which crawls through a website and pulls the data.
+Note: This is customised spider and it works only for the hardcoded website in the code. And even if the layout of the mentioned website changes, the code will break.
